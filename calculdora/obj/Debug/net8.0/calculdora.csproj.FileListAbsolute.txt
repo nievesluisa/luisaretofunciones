@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\bin\Debug\net8.0\calculdora.exe
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\bin\Debug\net8.0\calculdora.deps.json
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\bin\Debug\net8.0\calculdora.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\bin\Debug\net8.0\calculdora.dll
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\bin\Debug\net8.0\calculdora.pdb
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.dll
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\refint\calculdora.dll
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.pdb
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\calculdora.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\funciones luisa\calculdora\obj\Debug\net8.0\ref\calculdora.dll

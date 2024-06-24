@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "analizador", "analizador\analizador.csproj", "{44CAC1BA-0554-446A-88EC-E7D3369C8E09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculdora", "calculdora\calculdora.csproj", "{055D7592-22B5-4999-B210-41B2343910E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "convertidor", "convertidor\convertidor.csproj", "{53560217-B8BE-4C66-A2A4-5F688BA10945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CAC1BA-0554-446A-88EC-E7D3369C8E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CAC1BA-0554-446A-88EC-E7D3369C8E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CAC1BA-0554-446A-88EC-E7D3369C8E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CAC1BA-0554-446A-88EC-E7D3369C8E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055D7592-22B5-4999-B210-41B2343910E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055D7592-22B5-4999-B210-41B2343910E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055D7592-22B5-4999-B210-41B2343910E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055D7592-22B5-4999-B210-41B2343910E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53560217-B8BE-4C66-A2A4-5F688BA10945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53560217-B8BE-4C66-A2A4-5F688BA10945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53560217-B8BE-4C66-A2A4-5F688BA10945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53560217-B8BE-4C66-A2A4-5F688BA10945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CBA84B-1032-440F-871B-2AE2D921A891}
+	EndGlobalSection
+EndGlobal
